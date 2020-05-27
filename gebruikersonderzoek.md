@@ -9,9 +9,9 @@ Als gebruikersonderzoeksers dragen we bij door:
 - Tijdens ontwerp en bouw continu testen bij verschillende doelgroepen om ontwerpers en ontwikkelaars tijdig en gericht feedback te kunnen geven op hun ontwerpbeslissing.
 
 ## Team 
-- Lia Bardoel - usability onderzoeker - app
+- Lia Bardoel - user centered design researcher - app
 - Bram Duvigneau - accessibility onderzoeker - app
-- Job Jansweijer - usability onderzoeker - app
+- Job Jansweijer - user centered design researcher - app
 - Maike Klip - contextueel onderzoeker 
 - Joris Leker - lead onderzoek
 
