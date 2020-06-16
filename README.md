@@ -14,10 +14,13 @@ Onze intentie is om het ontwikkelen en ontwerpen van de Nederlandse COVID19-noti
 * [Job Stories](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/job-stories.md)
 * [Gebruikersonderzoek](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/gebruikersonderzoek.md)
   * [Inzichten meeloopdag Testfaciliteit](http://corona.sticktailapp.com/study-share/F29AF8mGiOUF/meelopen-in-testfaciliteit-644/) - week 24
+  * [0.6 pre-release Usability & Experience test (nog te publiceren)](http://corona.sticktailapp.com/study-share/7xoRpYAcfqrs/06-usability-experience-onderzoek-338/) - Week 24
+  * [Kwantitatieve vergelijking verschillende onboarding flows](http://corona.sticktailapp.com/study-share/HWEDadBMRIIP/kwantitatieve-vergelijking-van-variaties-op-onboarding-245/) - Week 24
+
   * [Inzichten meeloopdag Bron- en Contactonderzoek GGD](http://corona.sticktailapp.com/study-share/tHbLG3OXvq3H/meeloopdag-ggd-bron-en-contactonderzoek-804/) - week 23
   * [Interview ex-patienten](http://corona.sticktailapp.com/study-share/v6vryvdVID83/interviews-ex-patienten-513/) - week 23
   * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/AeHf5ulXRQL4/meeloopdag-ggd-fryslan-324/) - week 21
-  * 0.5 pre-release Usability & Experience test (nog te publiceren) - Week 23
+  * [0.5 pre-release Usability & Experience test (nog te publiceren)](http://corona.sticktailapp.com/study-share/EOLxHj4vcDDv/054-usability-experience-onderzoek-178/) - Week 23
   * [0.4 Usability & Experience test design onboarding](http://corona.sticktailapp.com/study-share/IuQFjGjzAvVC/04-unmoderated-onboarding-onderzoek-413/) - Week 22
   * [0.3 Usability & Experience test design iteratie](http://corona.sticktailapp.com/study-share/JphqssUlt6dM/usability-onderzoek-iteratie-2-469/) - week 21
   * [0.2 Usability & Experience test design iteratie](http://corona.sticktailapp.com/study-share/7HS72WW8JQhO/design-iteratie-test-door-ux-team-921/) - week 20
